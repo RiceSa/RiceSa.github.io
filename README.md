@@ -1,4 +1,4 @@
 # Simple-Profile-Page
-klik di bawah :D
+klik 
 https://ricesa.github.io/
-Dibuat untuk memenuhi tugas NWDC Night Login
+   ||   Dibuat untuk memenuhi tugas NWDC Night Login
